@@ -6,11 +6,8 @@
 - 🌱 I’m currently learning *Backend Development*
 
 - 👯 I’m looking to collaborate on *FrontEnd Projects and Webapps*
-
-- 💬 Ask me about *Front-End, Design &*
-
+- - 💬 Ask me about *Front-End, Design &*
 - 📫 How to reach me *jainritikaa05@gmail.com*
-
 - ⚡ Fun fact *I am not funny :>*
 
 <h3 align="left">Connect with me:</h3>
