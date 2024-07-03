@@ -30,13 +30,14 @@
 [<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming">](https://www.cprogramming.com/)
 [<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++">](https://www.w3schools.com/cpp/)
 [<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3">](https://www.w3schools.com/css/)
+[<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">](https://nodejs.org/)
 [<img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma">](https://www.figma.com/)
 [<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git">](https://git-scm.com/)
 [<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5">](https://www.w3.org/html/)
 [<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java">](https://www.java.com/)
 [<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL">](https://www.mysql.com/)
-[<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">](https://nodejs.org/)
+
 
 ---
 
