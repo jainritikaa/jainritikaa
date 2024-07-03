@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Frontend Development**
 - 👯 I’m looking to collaborate on **React Projects and Webapps**
 - 💬 Ask me about **Web Development**
-- 📫 How to reach me: **jainritikaa05@gmail**
+- 📫 How to reach me **jainritikaa05@gmail**
 
 
 <h3 align="left">Connect with me:</h3>
