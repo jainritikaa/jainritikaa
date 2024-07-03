@@ -2,17 +2,18 @@
 <h3 align="center">An Aspiring Front-End Developer from India</h3>
 
 <br>
-<h4 align="center">I am passionate about creating visually appealing and user-friendly web applications and am currently enhancing my backend skills. When I'm not coding, I immerse myself in the world of art, literature, and dance. These hobbies fuel my creativity and inspire my work, allowing me to approach development with a fresh perspective. I am eager to collaborate on innovative projects and connect with like-minded professionals in the tech community. Let's create something amazing together!</h4>
+<h4 align="center">I am passionate about creating visually appealing and user-friendly web applications and am currently enhancing my frontend skills. When I'm not coding, I immerse myself in the world of art, literature, and dance. These hobbies fuel my creativity and inspire my work, allowing me to approach development with a fresh perspective. I am eager to collaborate on innovative projects and connect with like-minded professionals in the tech community. Let's create something amazing together!</h4>
 
 <br>
 
-<h3 align="left">Some more things about me:</h3>
+<h3 align="left"><u>Some more things about me:</u></h3>
+<br>
 - 🌱 I’m currently learning **Frontend Development**
 - 👯 I’m looking to collaborate on **React Projects and Webapps**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me **jainritikaa05@gmail**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><u>Connect with me:</u></h3>
 <div style="display: flex; justify-content: flex-start;">
   <a href="https://twitter.com/jainritikaa05" target="blank" style="margin-right: 10px;">
     <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" style="border-radius: 8px;"/>
@@ -31,7 +32,7 @@
   </a>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"><u>Languages and Tools:</u></h3>
 <div style="display: flex; justify-content: flex-start;">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" style="border-radius: 8px;"/>
