@@ -25,18 +25,44 @@
 ---
 
 ### Languages and Tools:
-[<img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino">](https://www.arduino.cc/)
-[<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap">](https://getbootstrap.com/)
-[<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming">](https://www.cprogramming.com/)
-[<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++">](https://www.w3schools.com/cpp/)
-[<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3">](https://www.w3schools.com/css/)
-[<img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma">](https://www.figma.com/)
-[<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git">](https://git-scm.com/)
-[<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5">](https://www.w3.org/html/)
-[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java">](https://www.java.com/)
-[<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL">](https://www.mysql.com/)
-[<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">](https://nodejs.org/)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" style="border-radius: 8px; background-color: #f0f0f0; padding: 10px;"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" style="border-radius: 8px; background-color: #f0f0f0; padding: 10px;"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming" style="border-radius: 8px; background-color: #f0f0f0; padding: 10px;"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" style="border-radius: 8px; background-color: #f0f0f0; padding: 10px;"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="border-radius: 8px; background-color: #f0f0f0; padding: 10px;"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" style="border-radius: 8px; background-color: #f0f0f0; padding: 10px;"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="border-radius: 8px; background-color: #f0f0f0; padding: 10px;"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" style="border-radius: 8px; background-color: #f0f0f0; padding: 10px;"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" style="border-radius: 8px; background-color: #f0f0f0; padding: 10px;"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="border-radius: 8px; background-color: #f0f0f0; padding: 10px;"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" style="border-radius: 8px; background-color: #f0f0f0; padding: 10px;"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="border-radius: 8px; background-color: #f0f0f0; padding: 10px;"/>
+  </a>
+</div>
 
 ---
 
@@ -47,19 +73,24 @@ In the near future, I aim to master the MERN stack and develop impactful web app
 ---
 
 ### Major Projects:
-
-[Project 1: Project Name](#)  
-Description of Project 1.
-
-[Project 2: Project Name](#)  
-Description of Project 2.
-
-[Project 3: Project Name](#)  
-Description of Project 3.
-
-[Project 4: Project Name](#)  
-Description of Project 4.
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; flex: 1 1 calc(50% - 20px); box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+    <h4 align="center">Project 1</h4>
+    <p align="center">Description of Project 1.</p>
+  </div>
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; flex: 1 1 calc(50% - 20px); box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+    <h4 align="center">Project 2</h4>
+    <p align="center">Description of Project 2.</p>
+  </div>
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; flex: 1 1 calc(50% - 20px); box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+    <h4 align="center">Project 3</h4>
+    <p align="center">Description of Project 3.</p>
+  </div>
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; flex: 1 1 calc(50% - 20px); box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+    <h4 align="center">Project 4</h4>
+    <p align="center">Description of Project 4.</p>
+  </div>
+</div>
 
 ---
 
-Feel free to replace the placeholders with your actual project names, descriptions, and links if available!
