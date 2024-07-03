@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Frontend Development**
 - 👯 I’m looking to collaborate on **React Projects and Webapps**
 - 💬 Ask me about **Web Development**
-- 📫 How to reach me **jainritikaa05@gmail.com**
+- 📫 How to reach me **jainritikaa05@gmail**
 
 ---
 
