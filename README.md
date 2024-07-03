@@ -25,14 +25,14 @@
 ---
 
 ### Languages and Tools:
-- [Arduino](https://www.arduino.cc/)
-- [Bootstrap](https://getbootstrap.com)
-- [C Programming](https://www.cprogramming.com/)
-- [C++](https://www.w3schools.com/cpp/)
-- [CSS3](https://www.w3schools.com/css/)
-- [Figma](https://www.figma.com/)
-- [Git](https://git-scm.com/)
-- [HTML5](https://www.w3.org/html/)
-- [Java](https://www.java.com)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [MySQL](https://www.mysql.com/)
+- ![Arduino](https://example.com/arduino.png) Arduino
+- ![Bootstrap](https://example.com/bootstrap.png) Bootstrap
+- ![C Programming](https://example.com/c-programming.png) C Programming
+- ![C++](https://example.com/cpp.png) C++
+- ![CSS3](https://example.com/css3.png) CSS3
+- ![Figma](https://example.com/figma.png) Figma
+- ![Git](https://example.com/git.png) Git
+- ![HTML5](https://example.com/html5.png) HTML5
+- ![Java](https://example.com/java.png) Java
+- ![JavaScript](https://example.com/javascript.png) JavaScript
+- ![MySQL](https://example.com/mysql.png) MySQL
