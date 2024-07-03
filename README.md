@@ -18,17 +18,6 @@
 
 <hr>
 
-<h3 style="text-align: center;">Connect with me:</h3>
-
-<div style="text-align: center;">
-    <a href="https://twitter.com/jainritikaa05" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"></a>
-    <a href="https://linkedin.com/in/jainritikaa" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
-    <a href="https://instagram.com/jainritikaaa" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"></a>
-    <a href="https://discord.gg/ritika0487" target="_blank"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" alt="Discord"></a>
-</div>
-
-<hr>
-
 <h3 style="text-align: center;">Languages and Tools:</h3>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
@@ -44,6 +33,17 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL"></a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"></a>
+</div>
+
+<hr>
+
+<h3 style="text-align: center;">Connect with me:</h3>
+
+<div style="text-align: center;">
+    <a href="https://twitter.com/jainritikaa05" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"></a>
+    <a href="https://linkedin.com/in/jainritikaa" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
+    <a href="https://instagram.com/jainritikaaa" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"></a>
+    <a href="https://discord.gg/ritika0487" target="_blank"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" alt="Discord"></a>
 </div>
 
 <hr>
