@@ -43,9 +43,3 @@
 
 ### Future Goals:
 In the near future, I aim to master the MERN stack and develop impactful web applications that solve real-world problems. My goal is to contribute meaningfully to the tech industry by leveraging cutting-edge technologies and innovative ideas. I am excited about the journey ahead and the opportunity to create valuable experiences through web development.
-
----
-
-### Major Projects:
-[![Project 1](https://via.placeholder.com/400x200?text=Project+1)](#) [![Project 2](https://via.placeholder.com/400x200?text=Project+2)](#)
-[![Project 3](https://via.placeholder.com/400x200?text=Project+3)](#) [![Project 4](https://via.placeholder.com/400x200?text=Project+4)](#)
