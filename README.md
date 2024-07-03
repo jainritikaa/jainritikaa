@@ -6,6 +6,7 @@
 
 <br>
 
+<h3 align="left">Some more things about me:</h3>
 - 🌱 I’m currently learning **Frontend Development**
 - 👯 I’m looking to collaborate on **React Projects and Webapps**
 - 💬 Ask me about **Web Development**
