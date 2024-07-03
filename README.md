@@ -53,23 +53,3 @@
 
 <hr>
 
-<h3 style="text-align: center;">Major Projects:</h3>
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; width: calc(50% - 20px); box-shadow: 0 0 5px rgba(0,0,0,0.1); margin-bottom: 20px;">
-        <h4 style="text-align: center;">Project 1</h4>
-        <p style="text-align: center;">Description of Project 1.</p>
-    </div>
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; width: calc(50% - 20px); box-shadow: 0 0 5px rgba(0,0,0,0.1); margin-bottom: 20px;">
-        <h4 style="text-align: center;">Project 2</h4>
-        <p style="text-align: center;">Description of Project 2.</p>
-    </div>
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; width: calc(50% - 20px); box-shadow: 0 0 5px rgba(0,0,0,0.1); margin-bottom: 20px;">
-        <h4 style="text-align: center;">Project 3</h4>
-        <p style="text-align: center;">Description of Project 3.</p>
-    </div>
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; width: calc(50% - 20px); box-shadow: 0 0 5px rgba(0,0,0,0.1); margin-bottom: 20px;">
-        <h4 style="text-align: center;">Project 4</h4>
-        <p style="text-align: center;">Description of Project 4.</p>
-    </div>
-</div>
