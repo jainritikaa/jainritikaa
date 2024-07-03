@@ -2,8 +2,7 @@
 <h3 align="center">An Aspiring Front-End Developer from India</h3>
 
 <br>
-
-<h4>I am passionate about creating visually appealing and user-friendly web applications and am currently enhancing my backend skills. When I'm not coding, I immerse myself in the world of art, literature, and dance. These hobbies fuel my creativity and inspire my work, allowing me to approach development with a fresh perspective. I am eager to collaborate on innovative projects and connect with like-minded professionals in the tech community. Let's create something amazing together!</h4>
+<h4 align="center" >I am passionate about creating visually appealing and user-friendly web applications and am currently enhancing my backend skills. When I'm not coding, I immerse myself in the world of art, literature, and dance. These hobbies fuel my creativity and inspire my work, allowing me to approach development with a fresh perspective. I am eager to collaborate on innovative projects and connect with like-minded professionals in the tech community. Let's create something amazing together!</h4>
 
 <br>
 
