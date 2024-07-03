@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ritika Jain</h1>
-<h3 align="center">An Aspiring Front-End Developer from India</h3>
+# Hi 👋, I'm Ritika Jain
+### An Aspiring Front-End Developer from India
 
 ---
 
-<h4 align="center">I am passionate about creating visually appealing and user-friendly web applications and am currently enhancing my frontend skills. When I'm not coding, I immerse myself in the world of art, literature, and dance. These hobbies fuel my creativity and inspire my work, allowing me to approach development with a fresh perspective. I am eager to collaborate on innovative projects and connect with like-minded professionals in the tech community. Let's create something amazing together!</h4>
+#### I am passionate about creating visually appealing and user-friendly web applications and am currently enhancing my frontend skills. When I'm not coding, I immerse myself in the world of art, literature, and dance. These hobbies fuel my creativity and inspire my work, allowing me to approach development with a fresh perspective. I am eager to collaborate on innovative projects and connect with like-minded professionals in the tech community. Let's create something amazing together!
 
 ---
 
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Frontend Development**
 - 👯 I’m looking to collaborate on **React Projects and Webapps**
 - 💬 Ask me about **Web Development**
-- 📫 How to reach me **jainritikaa05@gmail**
+- 📫 How to reach me **jainritikaa05@gmail.com**
 
 ---
 
@@ -37,3 +37,13 @@
 [<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL">](https://www.mysql.com/)
 [<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">](https://nodejs.org/)
+
+---
+
+#### Future Goals:
+
+In the near future, I aim to master the MERN stack and develop impactful web applications that solve real-world problems. My goal is to contribute meaningfully to the tech industry by leveraging cutting-edge technologies and innovative ideas. I am excited about the journey ahead and the opportunity to create valuable experiences through web development.
+
+---
+
+Feel free to let me know if you need further adjustments!
