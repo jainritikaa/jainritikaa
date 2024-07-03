@@ -8,9 +8,9 @@
 
 <h3 align="left"><u>Some more things about me:</u></h3>
 <br>
-- 🌱 I’m currently learning **Frontend Development**
-- 👯 I’m looking to collaborate on **React Projects and Webapps**
-- 💬 Ask me about **Web Development**
+- 🌱 I’m currently learning **Frontend Development**<br>
+- 👯 I’m looking to collaborate on **React Projects and Webapps**<br>
+- 💬 Ask me about **Web Development**<br>
 - 📫 How to reach me **jainritikaa05@gmail**
 
 <h3 align="left"><u>Connect with me:</u></h3>
@@ -23,9 +23,6 @@
   </a>
   <a href="https://instagram.com/jainritikaaa" target="blank" style="margin-right: 10px;">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" style="border-radius: 8px;"/>
-  </a>
-  <a href="https://www.leetcode.com/jainritikaaa" target="blank" style="margin-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" style="border-radius: 8px;"/>
   </a>
   <a href="https://discord.gg/ritika0487" target="blank" style="margin-right: 10px;">
     <img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" alt="Discord" style="border-radius: 8px;"/>
@@ -66,9 +63,6 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" style="border-radius: 8px;"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="border-radius: 8px;"/>
   </a>
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://img.icons8.com/color/48/000000/qt.png" alt="Qt" style="border-radius: 8px;"/>
