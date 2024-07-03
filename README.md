@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Frontend Development**
 - 👯 I’m looking to collaborate on **React Projects and Webapps**
 - 💬 Ask me about **Web Development**
-- 📫 How to reach me **jainritikaa05@gmail.com**
+- 📫 How to reach me **jainritikaa05@gmail**
 
 ---
 
@@ -73,20 +73,20 @@ In the near future, I aim to master the MERN stack and develop impactful web app
 ---
 
 ### Major Projects:
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; flex: 1 1 calc(50% - 20px); box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-around;">
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; width: calc(50% - 20px); box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <h4 align="center">Project 1</h4>
     <p align="center">Description of Project 1.</p>
   </div>
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; flex: 1 1 calc(50% - 20px); box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; width: calc(50% - 20px); box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <h4 align="center">Project 2</h4>
     <p align="center">Description of Project 2.</p>
   </div>
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; flex: 1 1 calc(50% - 20px); box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; width: calc(50% - 20px); box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <h4 align="center">Project 3</h4>
     <p align="center">Description of Project 3.</p>
   </div>
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; flex: 1 1 calc(50% - 20px); box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; width: calc(50% - 20px); box-shadow: 0 0 5px rgba(0,0,0,0.1);">
     <h4 align="center">Project 4</h4>
     <p align="center">Description of Project 4.</p>
   </div>
