@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ritika Jain</h1>
 <h3 align="center">An Aspiring Developer from India</h3>
 
+<br>
+
 - 🌱 I’m currently learning **Backend Development**
 - 👯 I’m looking to collaborate on **FrontEnd Projects and Webapps**
 - 💬 Ask me about **Front-End Development**
