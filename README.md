@@ -9,10 +9,10 @@
 
 ### Some more things about me:
 
-- 🌱 I’m currently learning **Frontend Development**
-- 👯 I’m looking to collaborate on **React Projects and Webapps**
-- 💬 Ask me about **Web Development**
-- 📫 How to reach me **jainritikaa05@gmail**
+- 🌱 I’m currently learning *Frontend Development*
+- 👯 I’m looking to collaborate on *React Projects and Webapps*
+- 💬 Ask me about *Web Development*
+- 📫 How to reach me *jainritikaa05@gmail*
 
 ---
 
@@ -23,12 +23,13 @@
 [![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://www.w3schools.com/cpp/)
 [![CSS3](https://img.icons8.com/color/48/000000/css3.png)](https://www.w3schools.com/css/)
 [![Figma](https://img.icons8.com/color/48/000000/figma.png)](https://www.figma.com/)
-[![React.js](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/)
+[![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/)
 [![Git](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)
 [![HTML5](https://img.icons8.com/color/48/000000/html-5.png)](https://www.w3.org/html/)
 [![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://www.java.com/)
 [![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![MySQL](https://img.icons8.com/color/48/000000/mysql.png)](https://www.mysql.com/)
+
 
 ---
 
@@ -42,3 +43,10 @@
 
 ### Future Goals:
 In the near future, I aim to master the MERN stack and develop impactful web applications that solve real-world problems. My goal is to contribute meaningfully to the tech industry by leveraging cutting-edge technologies and innovative ideas. I am excited about the journey ahead and the opportunity to create valuable experiences through web development.
+
+---
+
+### Major Projects:
+[![WORA](https://github.com/Mrigank118/Wora-Version-1)](#)
+[![Garbage Valued](https://jainritikaa.github.io/Garbage-Valued/)](#)
+[![BestFit Line](https://jainritikaa.github.io/Best-Fit-Line-Generator/)](#)
