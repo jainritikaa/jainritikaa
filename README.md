@@ -47,6 +47,6 @@ In the near future, I aim to master the MERN stack and develop impactful web app
 ---
 
 ### Major Projects:
-[![WORA](https://github.com/Mrigank118/Wora-Version-1)](#)
-[![Garbage Valued](https://jainritikaa.github.io/Garbage-Valued/)](#)
-[![BestFit Line](https://jainritikaa.github.io/Best-Fit-Line-Generator/)](#)
+[WORA](https://github.com/Mrigank118/Wora-Version-1)(#)
+[Garbage Valued](https://jainritikaa.github.io/Garbage-Valued/)(#)
+[BestFit Line](https://jainritikaa.github.io/Best-Fit-Line-Generator/)(#)
