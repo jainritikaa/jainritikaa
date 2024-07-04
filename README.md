@@ -18,12 +18,11 @@
 
 ### Languages and Tools:
 [![Arduino](https://img.icons8.com/color/48/000000/arduino.png)](https://www.arduino.cc/)
-[![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)](https://getbootstrap.com/)
 [![C Programming](https://img.icons8.com/color/48/000000/c-programming.png)](https://www.cprogramming.com/)
 [![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://www.w3schools.com/cpp/)
 [![CSS3](https://img.icons8.com/color/48/000000/css3.png)](https://www.w3schools.com/css/)
 [![Figma](https://img.icons8.com/color/48/000000/figma.png)](https://www.figma.com/)
-[![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/)
+[![React](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/)
 [![Git](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)
 [![HTML5](https://img.icons8.com/color/48/000000/html-5.png)](https://www.w3.org/html/)
 [![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://www.java.com/)
