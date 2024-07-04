@@ -53,3 +53,6 @@ In the near future, I aim to master the MERN stack and develop impactful web app
 <br>
 [BestFit Line](https://jainritikaa.github.io/Best-Fit-Line-Generator/)
 <br>
+[C Arcade](https://github.com/Mrigank118/C-Arcade-)
+
+---
