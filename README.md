@@ -27,6 +27,10 @@
 [![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://www.java.com/)
 [![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![MySQL](https://img.icons8.com/color/48/000000/mysql.png)](https://www.mysql.com/)
+[![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png)](https://tailwindcss.com/)
+[![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)](https://www.typescriptlang.org/)
+[![Next.js](https://img.icons8.com/color/48/000000/nextjs.png)](https://nextjs.org/)
+
 
 
 ---
