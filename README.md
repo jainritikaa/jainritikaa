@@ -21,7 +21,6 @@
 [![C Programming](https://img.icons8.com/color/48/000000/c-programming.png)](https://www.cprogramming.com/)
 [![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://www.w3schools.com/cpp/)
 [![CSS3](https://img.icons8.com/color/48/000000/css3.png)](https://www.w3schools.com/css/)
-[![Figma](https://img.icons8.com/color/48/000000/figma.png)](https://www.figma.com/)
 [![React](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/)
 [![HTML5](https://img.icons8.com/color/48/000000/html-5.png)](https://www.w3.org/html/)
 [![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://www.java.com/)
