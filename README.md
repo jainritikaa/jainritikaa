@@ -9,7 +9,7 @@
 
 ### Some more things about me:
 
-- 🌱 I’m currently learning *Frontend Development*
+- 🌱 I’m currently learning *AI/ML*
 - 👯 I’m looking to collaborate on *React Projects and Webapps*
 - 💬 Ask me about *Web Development*
 - 📫 How to reach me *jainritikaa05@gmail*
@@ -29,6 +29,8 @@
 [![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png)](https://tailwindcss.com/)
 [![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)](https://www.typescriptlang.org/)
 [![Next.js](https://img.icons8.com/color/48/000000/nextjs.png)](https://nextjs.org/)
+[![PHP](https://img.icons8.com/officel/48/000000/php-logo.png)](https://www.php.net/)
+[![Data Structures](https://img.icons8.com/fluency/48/000000/algorithm.png)](https://en.wikipedia.org/wiki/Data_structure)
 
 
 
@@ -39,11 +41,13 @@
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/jainritikaa)
 [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://instagram.com/jainritikaaa)
 [![Discord](https://img.icons8.com/color/48/000000/discord-new-logo.png)](https://discord.gg/ritika0487)
+[![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/jainritikaa)
+
 
 ---
 
 ### Future Goals:
-In the near future, I aim to master the MERN stack and develop impactful web applications that solve real-world problems. My goal is to contribute meaningfully to the tech industry by leveraging cutting-edge technologies and innovative ideas. I am excited about the journey ahead and the opportunity to create valuable experiences through web development.
+In the near future, I aim to master Data Science and develop impactful web applications that solve real-world problems. My goal is to contribute meaningfully to the tech industry by leveraging cutting-edge technologies and innovative ideas. I am excited about the journey ahead and the opportunity to create valuable experiences through web development.
 
 ---
 
