@@ -30,7 +30,6 @@
 [![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)](https://www.typescriptlang.org/)
 [![Next.js](https://img.icons8.com/color/48/000000/nextjs.png)](https://nextjs.org/)
 [![PHP](https://img.icons8.com/officel/48/000000/php-logo.png)](https://www.php.net/)
-[![Data Structures](https://img.icons8.com/fluency/48/000000/algorithm.png)](https://en.wikipedia.org/wiki/Data_structure)
 
 
 
@@ -41,7 +40,7 @@
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/jainritikaa)
 [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://instagram.com/jainritikaaa)
 [![Discord](https://img.icons8.com/color/48/000000/discord-new-logo.png)](https://discord.gg/ritika0487)
-[![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/jainritikaa)
+[![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/u/jainritikaaa/)
 
 
 ---
