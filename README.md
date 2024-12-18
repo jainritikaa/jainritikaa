@@ -3,7 +3,7 @@
 
 ---
 
-#### I am passionate about creating visually appealing and user-friendly web applications and am currently enhancing my frontend skills. When I'm not coding, I immerse myself in the world of art, literature, and dance. These hobbies fuel my creativity and inspire my work, allowing me to approach development with a fresh perspective. I am eager to collaborate on innovative projects and connect with like-minded professionals in the tech community. Let's create something amazing together!
+#### I am passionate about creating visually appealing and user-friendly web applications and am currently enhancing my development and problem solving skills. When I'm not coding, I immerse myself in the world of art, literature, and dance. These hobbies fuel my creativity and inspire my work, allowing me to approach development with a fresh perspective. I am eager to collaborate on innovative projects and connect with like-minded professionals in the tech community. Let's create something amazing together!
 
 ---
 
