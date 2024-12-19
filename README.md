@@ -23,11 +23,7 @@
 ---
 
 ### Connect with me:
-[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/jainritikaa05)
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/jainritikaa)
-[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://instagram.com/jainritikaaa)
-[![Discord](https://img.icons8.com/color/48/000000/discord-new-logo.png)](https://discord.gg/ritika0487)
-[![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/u/jainritikaaa/)
+[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/jainritikaa05)[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/jainritikaa)[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://instagram.com/jainritikaaa)[![Discord](https://img.icons8.com/color/48/000000/discord-new-logo.png)](https://discord.gg/ritika0487)[![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/u/jainritikaaa/)
 
 
 ---
