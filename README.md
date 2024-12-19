@@ -1,5 +1,5 @@
 # Hi 👋, I'm Ritika Jain
-### An Aspiring Front-End Developer from India
+### An Aspiring Developer from India
 
 ---
 
